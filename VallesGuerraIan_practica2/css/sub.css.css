@@ -1,0 +1,51 @@
+#cuerpo {
+background-color: #87c5c5;
+}
+
+#titulo{ 
+	text-align: center; color: #ffffff; font-family: system-ui; font-size: 40px; background-color: #a5a5a5; width: 40%; height: auto; margin: auto; margin-top: 15px; border-radius: 10px; 
+	border-style: outset; margin-bottom: 15px; 
+
+}
+#links { background-color:#a5a5a5 ; padding: 10px;border-radius: 5px; border-style: outset; margin: auto; text-align: center; width: 10%; 
+}
+
+#inicio {
+font-family: system-ui; font-size: 30px; color: #ffffff; text-decoration: none;
+}
+table {
+            width: 90%; border-collapse: 2px; margin: auto; font-family: Arial; color: #ffffff; font-size: 20px; margin-bottom: 30px; padding: 5px;
+        }
+        th, td {
+            border: 1px solid black; padding: 8px; text-align: center; background-color: #a5a5a5;
+        }
+        th {
+            background-color: #898382; font-family:system-ui ; font-size: 30px;
+        }
+        colgroup col:nth-child(1) {
+            width: 20%;
+        }
+        colgroup col:nth-child(2) {
+            width: 30%;
+        }
+        colgroup col:nth-child(3) {
+            width: 50%;
+        }
+
+
+#imgv {
+	height: 300px; width: auto; border-radius: 5px;
+}
+
+#imgh {
+	width: 400px; height: auto; border-radius: 5px;
+
+}#pie{
+	background-color: #a5a5a5; width: 20%; height: 5%; margin: auto; margin-top: 30px; border-radius: 10px; border-style: outset;
+
+}
+
+#tepie{
+	text-align: center; color: #ffffff; font-family: system-ui ; font-size: 20px; padding: 1px;
+
+}
